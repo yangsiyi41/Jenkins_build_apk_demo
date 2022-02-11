@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
     printScreenInformation();
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.title+"5"),
+        title: Text(widget.title+"6"),
       ),
       body: SingleChildScrollView(
         child: Column(
